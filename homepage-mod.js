@@ -1,0 +1,1 @@
+let len=window.drive_names.length,html="";for(var i=0;i<len;i++)html+='<a href="/'+i+':/" style="color: white;" class="list-group-item list-group-item-action">\n '+window.drive_names[i]+"</a>";$("#n_drives").html(len),$("#list").html(html);
