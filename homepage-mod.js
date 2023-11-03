@@ -1,1 +1,1 @@
-let len=window.drive_names.length,html="";for(var i=0;i<len;i++)html+='<a href="/'+i+`:/" style="color: ${UI.folder_text_color};" class="list-group-item list-group-item-action">`+window.drive_names[i]+"</a>";$("#n_drives").html(len),$("#list").html(html);
+let len=window.drive_names.length,html="";for(var i=0;i<len;i++)html+='<a href="/'+i+`:/" style="color: #F9F9F9F9;" class="list-group-item list-group-item-action">`+window.drive_names[i]+"</a>";$("#n_drives").html(len),$("#list").html(html);
