@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="427.907" height="477.768" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <g class="layer">
+  <title>Exclusive5 Logo</title>
+  <g id="svg_1" transform="matrix(0.18 0 0 -0.18 320.21 240.29)">
+   <linearGradient id="SVGID_649" x1="0.3" x2="0.7" y1="0.04" y2="0.96">
+    <stop offset="0" stop-color="rgba(0, 116, 255, 1)"/>
+    <stop offset="1" stop-color="rgba(255, 0, 0, 1)"/>
+   </linearGradient>
+   <path d="m441.56,3258.56c-8,-39 -286,-1620 -286,-1627c0,-3 243,-6 540,-6c508,0 540,-1 540,-17c0,-10 -11,-79 -25,-153c-14,-74 -25,-138 -25,-142c0,-5 -48,-8 -106,-8l-107,0l7,53c4,28 10,62 13,75l5,22l-436,0l-436,0l-5,-22c-26,-115 -85,-487 -85,-538c1,-143 82,-223 256,-250c47,-7 284,-10 715,-8c619,4 647,5 712,25c128,39 214,116 255,227c24,62 202,1072 202,1140c0,111 -51,185 -156,227c-58,24 -65,24 -462,27c-302,2 -404,6 -407,15c-3,7 8,82 23,167l28,155l107,3c59,1 107,-1 107,-5c0,-4 -6,-41 -14,-81c-10,-54 -11,-75 -2,-78c6,-2 202,-3 436,-2l425,3l67,380c37,209 69,395 73,413l6,32l-980,0l-979,0l-6,-27z" fill="url(#SVGID_649)" fill-rule="nonzero" id="svg_2" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-1815.5 -1955.7)"/>
+  </g>
+ </g>
+</svg>
